@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "556d4e475413bef2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d4fdbc6844fc7bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69315ebe784ea285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduccion al desarollo backend/Python/Algoritmos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d575932105def424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduccion al desarollo backend/Python/Variables.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d39ab1d6fc1078cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0e253da92791a9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d3c568b3a2b68b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "acc0dcf75ef4e427",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f6a8ea2b0999b57",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b638846fd6fbc0e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "87129e106efbdb73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "400cb842abb4ddb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introduccion al desarollo backend/Python/Variables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ed72eacccb52c21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introduccion al desarollo backend/Python/Variables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51063dce1c3e3e60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2930d24c7f4d90e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introduccion al desarollo backend/Python/Variables.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d575932105def424",
+  "lastOpenFiles": [
+    "Introduccion al desarollo backend/Python/Operadores Aritmeticos.md",
+    "Introduccion al desarollo backend/Python/Algoritmos.md",
+    "Introduccion al desarollo backend/Python/Consola.md",
+    "Introduccion al desarollo backend/Clase 1.md"
+  ]
+}
