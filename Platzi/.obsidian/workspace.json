@@ -23,12 +23,8 @@
             "id": "d575932105def424",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduccion al desarollo backend/Python/Variables.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduccion al desarollo backend/Python/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduccion al desarollo backend/Python/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Introduccion al desarollo backend/Python/Variables.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,6 +143,7 @@
   },
   "active": "d575932105def424",
   "lastOpenFiles": [
+    "Introduccion al desarollo backend/Python/Variables.md",
     "Introduccion al desarollo backend/Python/Operadores Aritmeticos.md",
     "Introduccion al desarollo backend/Python/Algoritmos.md",
     "Introduccion al desarollo backend/Python/Consola.md",
