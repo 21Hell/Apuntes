@@ -10,7 +10,7 @@ def run():
 def es_palindromo(palabra):
     palabra = palabra.replace(' ', '')
     palabra = palabra.lower()
-    palabra_invertida = palabra[::-1]
+    palabra_invertida = palabra[::-1] # Invierte la palabra Ej 'hola' -> 'aloh'
     if palabra == palabra_invertida:
         return True
     else:

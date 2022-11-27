@@ -1,6 +1,6 @@
 def run():
-    numero = int(input('Escribe un número: '))
-    print(es_primo(numero))
+    num = int(input('Escribe un número: '))
+    print(es_primo(num))
 
 def es_primo(numero):
     rangoImpar = range(3, numero, 2)
@@ -13,8 +13,6 @@ def es_primo(numero):
             if numero % i == 0:
                 return False
         return True
-
-    
 
 if __name__ == '__main__':
     run()

@@ -23,12 +23,40 @@
             "id": "d575932105def424",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Introduccion al desarollo backend/Python/PythonBasico.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "28891339c894410f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduccion al desarollo backend/Ying y Yang/Front End.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49ee9cc122885d7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduccion al desarollo backend/Ying y Yang/Front End.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introduccion al desarollo backend/Ying y Yang/Front End.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Introduccion al desarollo backend/Ying y Yang/Front End.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Introduccion al desarollo backend/Ying y Yang/Front End.md"
+              }
             }
           }
         ]
@@ -141,8 +173,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d575932105def424",
+  "active": "28891339c894410f",
   "lastOpenFiles": [
+    "Introduccion al desarollo backend/Python/PythonBasico.md",
+    "Introduccion al desarollo backend/Ying y Yang/Indice.md",
+    "Introduccion al desarollo backend/Ying y Yang/Front End.md",
     "Introduccion al desarollo backend/Python/Variables.md",
     "Introduccion al desarollo backend/Python/Operadores Aritmeticos.md",
     "Introduccion al desarollo backend/Python/Algoritmos.md",
