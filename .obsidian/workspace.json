@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "3ec672f638fdd0bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c219f574e11e6df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78a5ae034e804f30",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ba61c284415174d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd5aeee65659da04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7671823bde750f5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41a37da64a2c4d4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "505bd28d66ccad39",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70b27bd6002776e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "87744e85a29b51ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce4bab1fe6c96cb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a3240cf6c085fb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "446f40c79f5d159d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cead7a69e80a8b77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7671823bde750f5b",
+  "lastOpenFiles": [
+    "LIBROS/THE BOOK OF WHY/Causality.md",
+    "LIBROS/THE BOOK OF WHY",
+    "LIBROS",
+    "REDES 3/Threat Actors Tools.md",
+    "REDES 3",
+    "NUBE/Proyecto Nube.md",
+    "NUBE/SOAP.md",
+    "NUBE",
+    "INVESTIGACION/Marco teorico.md",
+    "Untitled.canvas",
+    "Threat Actors Tools.md",
+    "SOAP.md",
+    "Proyecto Nube.md",
+    "Marco teorico.md",
+    "THE BOOK OF WHY/Causality.md",
+    "THE BOOK OF WHY",
+    "INVESTIGACION/PLANTEAMIENTO DEL PROBLEMA.md",
+    "INVESTIGACION/Diseño de un (proyecto de) aplicacion movil para el servicio de la cafeteria del itq campus centro.md",
+    "INVESTIGACION/REVISIONES.md",
+    "INVESTIGACION/RESUMEN.md",
+    "INVESTIGACION/Optimización.md",
+    "INVESTIGACION/ANTECEDENTES.md",
+    "INVESTIGACION"
+  ]
+}
