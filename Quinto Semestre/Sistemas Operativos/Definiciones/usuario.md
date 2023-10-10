@@ -1,0 +1,1 @@
+Persona o cosa que hace uso de un servicio
