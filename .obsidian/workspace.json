@@ -13,13 +13,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Platzi/Introduccion al desarollo backend/Python/Consola.md",
+                "file": "CERTIFICACION GOOGLE CLOUD/Cap 1/So whats the cloud anyway Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a762ec0117fa7cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERTIFICACION GOOGLE CLOUD/Cap 1/So whats the cloud anyway Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "934def3c1835ca4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERTIFICACION GOOGLE CLOUD/Cap 1/So whats the cloud anyway Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83d8405b9d480bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERTIFICACION GOOGLE CLOUD/Cap 1/cloud vs traditional architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "762aadb5d9e52a5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERTIFICACION GOOGLE CLOUD/Cap 1/IaaS, PaaS, and SaaS..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1184c401a4959fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERTIFICACION GOOGLE CLOUD/Cap 1/Google Cloud Infraestructure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "020acbe21de57b81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERTIFICACION GOOGLE CLOUD/Cap3/Kubernetees Practica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d84d36a4a0fd7e5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERTIFICACION GOOGLE CLOUD/Cap2/folders.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -85,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Platzi/Introduccion al desarollo backend/Python/Consola.md",
+                "file": "CERTIFICACION GOOGLE CLOUD/Cap3/Kubernetees Practica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Platzi/Introduccion al desarollo backend/Python/Consola.md",
+                "file": "CERTIFICACION GOOGLE CLOUD/Cap3/Kubernetees Practica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Platzi/Introduccion al desarollo backend/Python/Consola.md"
+                "file": "CERTIFICACION GOOGLE CLOUD/Cap3/Kubernetees Practica.md"
               }
             }
           }
@@ -146,38 +231,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78a5ae034e804f30",
+  "active": "020acbe21de57b81",
   "lastOpenFiles": [
-    "Platzi/Introduccion al desarollo backend/Python/PythonBasico.md",
-    "Platzi/Introduccion al desarollo backend/Python/Operadores Aritmeticos.md",
-    "Platzi/Introduccion al desarollo backend/Python/Consola.md",
-    "Platzi/Introduccion al backend/Front y Back.md",
-    "NUBE/Proyecto Nube.md",
-    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/4 Capa Fisica/Caracteristicas de la capa fisica.md",
-    "CERTIFICACION GOOGLE CLOUD/CAPITULO 1/introduccion.md",
-    "CERTIFICACION GOOGLE CLOUD/CAPITULO 1",
+    "CERTIFICACION GOOGLE CLOUD/Cap3/Resumen para Kubernetes.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap3/Kubernetees Practica.md",
+    "Pasted image 20231011112445.png",
+    "Pasted image 20231011112309.png",
+    "CERTIFICACION GOOGLE CLOUD/Cap3/Cloud Function Exersice.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap3/Cloud Functions.md",
+    "Pasted image 20231011105738.png",
+    "CERTIFICACION GOOGLE CLOUD/Cap3/App Engine.md",
+    "Pasted image 20231011103032.png",
+    "Pasted image 20231011102510.png",
+    "Pasted image 20231011102344.png",
+    "Pasted image 20231011102249.png",
+    "Pasted image 20231011102244.png",
+    "CERTIFICACION GOOGLE CLOUD/Cap3/Elastic Apps.md",
+    "Pasted image 20231011102218.png",
+    "Pasted image 20231011100233.png",
+    "CERTIFICACION GOOGLE CLOUD/Cap3/Configure IaaS.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap3/Compute Engine.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap3/Google Cloud compute Services.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap3/Use Google Cloud to build your apps.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap2/Cloud Mobile.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap3",
+    "CERTIFICACION GOOGLE CLOUD/Cap2/APIs.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap2/Commands Google Cloud Console.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap2/Google Cloud console.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap2/Billing.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap2/folders.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap2/Access Google Cloud.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap2/Google Cloud project.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap2/Start With a Solid Platform.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap2/Projects.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap 1/Google network.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap2",
+    "CERTIFICACION GOOGLE CLOUD/Cap 1/Google Cloud Infraestructure.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap 1/Serverless.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap 1/Virtualized data centers.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap 1/So whats the cloud anyway Intro.md",
+    "CERTIFICACION GOOGLE CLOUD/Cap 1/IaaS, PaaS, and SaaS..md",
+    "CERTIFICACION GOOGLE CLOUD/Cap 1",
+    "Untitled.canvas",
+    "CERTIFICACION GOOGLE CLOUD/Tutorial Lab",
     "CERTIFICACION GOOGLE CLOUD",
-    "LIBROS/THE BOOK OF WHY/Causality.md",
     "LIBROS/THE BOOK OF WHY",
     "LIBROS",
-    "REDES 3/Threat Actors Tools.md",
     "REDES 3",
-    "NUBE/SOAP.md",
     "NUBE",
-    "INVESTIGACION/Marco teorico.md",
-    "Untitled.canvas",
-    "Threat Actors Tools.md",
-    "SOAP.md",
-    "Proyecto Nube.md",
-    "Marco teorico.md",
-    "THE BOOK OF WHY/Causality.md",
-    "THE BOOK OF WHY",
-    "INVESTIGACION/PLANTEAMIENTO DEL PROBLEMA.md",
-    "INVESTIGACION/Diseño de un (proyecto de) aplicacion movil para el servicio de la cafeteria del itq campus centro.md",
-    "INVESTIGACION/REVISIONES.md",
-    "INVESTIGACION/RESUMEN.md",
-    "INVESTIGACION/Optimización.md",
-    "INVESTIGACION/ANTECEDENTES.md",
-    "INVESTIGACION"
+    "THE BOOK OF WHY"
   ]
 }
