@@ -1,3 +1,0 @@
-[[Sistema Operativo]] 
-- Funciones
-- Caracteristicas

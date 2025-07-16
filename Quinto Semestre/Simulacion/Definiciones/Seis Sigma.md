@@ -1,1 +1,0 @@
-Modelo que ayuda a reducir la dispercion de un sistema

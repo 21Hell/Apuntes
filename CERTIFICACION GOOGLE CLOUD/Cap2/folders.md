@@ -1,1 +1,0 @@
-You can use folders to group projects under an organization in a hierarchy.

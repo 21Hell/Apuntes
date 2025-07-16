@@ -1,4 +1,0 @@
-Revisar Cita:
-[[Optimización]]
-
-

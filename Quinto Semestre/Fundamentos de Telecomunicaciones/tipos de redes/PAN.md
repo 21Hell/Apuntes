@@ -1,1 +1,0 @@
-1 a 15 metros de longitud, conecta solo dos dispositivos Bluetooth 
