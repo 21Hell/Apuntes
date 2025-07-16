@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "5fac5757c17b8e01",
+    "type": "split",
+    "children": [
+      {
+        "id": "79326d23165b26f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6905d3b60c96fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75e6bb4a0a13f662",
+    "type": "split",
+    "children": [
+      {
+        "id": "69d8f28501f436aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b40378d3da923425",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5510625c9f6fc1eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c3fefc9bcd907ffc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "865b5aa809fdea87",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3f53c0a0aea68ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5e43d0a14db0716",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Django/Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Basics"
+            }
+          },
+          {
+            "id": "15016bafa2fd6289",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Django/Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Basics"
+            }
+          },
+          {
+            "id": "c0d9b0bbe61c71b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "36e3d639469cdbcd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Django/Basics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e6905d3b60c96fd9",
+  "lastOpenFiles": [
+    "Django/mypage/mypage/__pycache__/wsgi.cpython-313.pyc",
+    "Django/mypage/db.sqlite3",
+    "Django/mypage/mypage/__pycache__/urls.cpython-313.pyc",
+    "Django/Commands.md",
+    "Django/Commands.py",
+    "Django/Basics.md",
+    "Django/mypage/mypage/__pycache__/settings.cpython-313.pyc",
+    "Django/mypage/mypage/__pycache__/__init__.cpython-313.pyc",
+    "Django/mypage/mypage/__pycache__",
+    "Django/mypage/mypage/wsgi.py",
+    "Django/mypage/mypage/urls.py",
+    "Django/mypage/mypage/settings.py",
+    "Django/mypage/mypage/asgi.py",
+    "Untitled/Pasted image 20231010220859.png",
+    "Untitled.canvas",
+    "REDES 3/Threat Actors Tools.md",
+    "README.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 8-10/Unidad 9/⁪ARP.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 8-10/Unidad 9/MAC e IP.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 8-10/Unidad 9/Detección de vecinos IPv6.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 8-10/Unidad 8/¿Cómo arma las rutas el host?.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 8-10/Unidad 8/Paquete IPv6.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 8-10/Unidad 8/Paquete IPv4.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 8-10/Unidad 8/Introducción al enrutamiento.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 8-10/Unidad 8/Características de la capa de red.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 8-10/Unidad 10/Configuración del gateway predeterminado.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 8-10/Unidad 10/Configuración de los parámetros iniciales del router.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 8-10/Unidad 10/Configuración de interfaces.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/7 Switching Ethernet/Tramas de Ethernet.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/6 Capa de enlace de datos/Topologias.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/6 Capa de enlace de datos/Propósito de la capa de enlace de datos.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/6 Capa de enlace de datos/La trama.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/4 Capa Fisica/indice.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/4 Capa Fisica/Resumen.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/4 Capa Fisica/Propósito de la capa física.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/4 Capa Fisica/Medios inalámbricos.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/4 Capa Fisica/Caracteristicas de la capa fisica.md",
+    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/4 Capa Fisica/Cableado de fibra óptica.md",
+    "Quinto Semestre/Sistemas Operativos/Imagenes/Imagen Diagrama Sistemas Operativos.png",
+    "Quinto Semestre/Simulacion/Imagenes/Diagrama Simulacion uno.jpg",
+    "Quinto Semestre/Graficacion/Imagenes/representacion de obtencion de valores .png",
+    "Quinto Semestre/Graficacion/Imagenes/Tabla de Formatos.png",
+    "Quinto Semestre/Graficacion/Imagenes/RGB.png",
+    "Quinto Semestre/Graficacion/Imagenes/Hue.png",
+    "Quinto Semestre/Graficacion/Imagenes/Hue Esfera.png",
+    "Quinto Semestre/Graficacion/Imagenes/HSV.png",
+    "Quinto Semestre/Graficacion/Imagenes/HSL.png"
+  ]
+}
