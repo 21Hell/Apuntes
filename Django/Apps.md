@@ -1,0 +1,1 @@
+Apps are smaller packages of codes that help to keep code maintainability 

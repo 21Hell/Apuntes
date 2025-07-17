@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Basics.md",
+                "file": "Django/URLS (Routes).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basics"
+              "title": "URLS (Routes)"
+            }
+          },
+          {
+            "id": "5729dfe6add525b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/settings.py.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "settings.py"
             }
           }
         ]
@@ -170,19 +184,25 @@
   },
   "active": "e6905d3b60c96fd9",
   "lastOpenFiles": [
-    "Django/mypage/mypage/__pycache__/wsgi.cpython-313.pyc",
-    "Django/mypage/db.sqlite3",
-    "Django/mypage/mypage/__pycache__/urls.cpython-313.pyc",
-    "Django/Commands.md",
-    "Django/Commands.py",
+    "Django/monthly_challenges/challenges/migrations/__init__.py",
+    "Django/monthly_challenges/challenges/migrations",
+    "Django/monthly_challenges/challenges/views.py",
+    "Django/monthly_challenges/challenges/tests.py",
+    "Django/monthly_challenges/challenges/models.py",
+    "Django/monthly_challenges/challenges/apps.py",
+    "Django/monthly_challenges/challenges/admin.py",
+    "Django/monthly_challenges/challenges/__init__.py",
+    "Django/monthly_challenges/challenges",
+    "Django/monthly_challenges/monthly_challenges/__pycache__/settings.cpython-313.pyc",
+    "Django/monthly_challenges/monthly_challenges/__pycache__/__init__.cpython-313.pyc",
+    "NUBE/SOAP.md",
+    "Django/Views.md",
+    "Django/URLS (Routes).md",
     "Django/Basics.md",
-    "Django/mypage/mypage/__pycache__/settings.cpython-313.pyc",
-    "Django/mypage/mypage/__pycache__/__init__.cpython-313.pyc",
-    "Django/mypage/mypage/__pycache__",
-    "Django/mypage/mypage/wsgi.py",
-    "Django/mypage/mypage/urls.py",
-    "Django/mypage/mypage/settings.py",
-    "Django/mypage/mypage/asgi.py",
+    "Django/settings.py.md",
+    "Django/Apps.md",
+    "Django/settings.py 1.md",
+    "Django/Commands.md",
     "Untitled/Pasted image 20231010220859.png",
     "Untitled.canvas",
     "REDES 3/Threat Actors Tools.md",
@@ -202,12 +222,6 @@
     "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/6 Capa de enlace de datos/Topologias.md",
     "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/6 Capa de enlace de datos/Propósito de la capa de enlace de datos.md",
     "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/6 Capa de enlace de datos/La trama.md",
-    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/4 Capa Fisica/indice.md",
-    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/4 Capa Fisica/Resumen.md",
-    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/4 Capa Fisica/Propósito de la capa física.md",
-    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/4 Capa Fisica/Medios inalámbricos.md",
-    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/4 Capa Fisica/Caracteristicas de la capa fisica.md",
-    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/4 Capa Fisica/Cableado de fibra óptica.md",
     "Quinto Semestre/Sistemas Operativos/Imagenes/Imagen Diagrama Sistemas Operativos.png",
     "Quinto Semestre/Simulacion/Imagenes/Diagrama Simulacion uno.jpg",
     "Quinto Semestre/Graficacion/Imagenes/representacion de obtencion de valores .png",

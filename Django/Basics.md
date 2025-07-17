@@ -8,6 +8,9 @@ wsgi
 
 # settings.py
 Sirve para poner configuraciones globales
+[[Django/settings.py|settings.py]]
+
+
 
 
 # urls.py
