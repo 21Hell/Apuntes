@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/URLS (Routes).md",
+                "file": "Django/URLs (Routes).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "URLS (Routes)"
+              "title": "URLs (Routes)"
             }
           },
           {
@@ -184,20 +184,20 @@
   },
   "active": "e6905d3b60c96fd9",
   "lastOpenFiles": [
+    "Django/monthly_challenges/monthly_challenges/__pycache__/urls.cpython-313.pyc.139637762404272",
+    "Django/monthly_challenges/challenges/__pycache__/views.cpython-313.pyc",
+    "Django/monthly_challenges/challenges/__pycache__/urls.cpython-313.pyc",
+    "Django/monthly_challenges/challenges/__pycache__/__init__.cpython-313.pyc",
+    "Django/monthly_challenges/challenges/__pycache__",
+    "Django/monthly_challenges/monthly_challenges/__pycache__/urls.cpython-313.pyc.140668842063344",
+    "Django/monthly_challenges/monthly_challenges/__pycache__/wsgi.cpython-313.pyc",
+    "Django/monthly_challenges/db.sqlite3",
+    "Django/monthly_challenges/monthly_challenges/__pycache__/urls.cpython-313.pyc",
+    "Django/monthly_challenges/challenges/urls.py",
     "Django/monthly_challenges/challenges/migrations/__init__.py",
-    "Django/monthly_challenges/challenges/migrations",
-    "Django/monthly_challenges/challenges/views.py",
-    "Django/monthly_challenges/challenges/tests.py",
-    "Django/monthly_challenges/challenges/models.py",
-    "Django/monthly_challenges/challenges/apps.py",
-    "Django/monthly_challenges/challenges/admin.py",
-    "Django/monthly_challenges/challenges/__init__.py",
-    "Django/monthly_challenges/challenges",
-    "Django/monthly_challenges/monthly_challenges/__pycache__/settings.cpython-313.pyc",
-    "Django/monthly_challenges/monthly_challenges/__pycache__/__init__.cpython-313.pyc",
     "NUBE/SOAP.md",
     "Django/Views.md",
-    "Django/URLS (Routes).md",
+    "Django/URLs (Routes).md",
     "Django/Basics.md",
     "Django/settings.py.md",
     "Django/Apps.md",
