@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/URLs (Routes).md",
+                "file": "Typescript/Install.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "URLs (Routes)"
+              "title": "Install"
             }
           },
           {
@@ -184,6 +184,10 @@
   },
   "active": "e6905d3b60c96fd9",
   "lastOpenFiles": [
+    "Typescript/Running.md",
+    "Typescript/Install.md",
+    "Typescript/calculator",
+    "Django/URLs (Routes).md",
     "Django/monthly_challenges/monthly_challenges/__pycache__/urls.cpython-313.pyc.139637762404272",
     "Django/monthly_challenges/challenges/__pycache__/views.cpython-313.pyc",
     "Django/monthly_challenges/challenges/__pycache__/urls.cpython-313.pyc",
@@ -193,11 +197,8 @@
     "Django/monthly_challenges/monthly_challenges/__pycache__/wsgi.cpython-313.pyc",
     "Django/monthly_challenges/db.sqlite3",
     "Django/monthly_challenges/monthly_challenges/__pycache__/urls.cpython-313.pyc",
-    "Django/monthly_challenges/challenges/urls.py",
-    "Django/monthly_challenges/challenges/migrations/__init__.py",
     "NUBE/SOAP.md",
     "Django/Views.md",
-    "Django/URLs (Routes).md",
     "Django/Basics.md",
     "Django/settings.py.md",
     "Django/Apps.md",
@@ -220,8 +221,6 @@
     "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 8-10/Unidad 10/Configuración de interfaces.md",
     "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/7 Switching Ethernet/Tramas de Ethernet.md",
     "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/6 Capa de enlace de datos/Topologias.md",
-    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/6 Capa de enlace de datos/Propósito de la capa de enlace de datos.md",
-    "Quinto Semestre/Fundamentos de Telecomunicaciones/Unidad 4-7/6 Capa de enlace de datos/La trama.md",
     "Quinto Semestre/Sistemas Operativos/Imagenes/Imagen Diagrama Sistemas Operativos.png",
     "Quinto Semestre/Simulacion/Imagenes/Diagrama Simulacion uno.jpg",
     "Quinto Semestre/Graficacion/Imagenes/representacion de obtencion de valores .png",
